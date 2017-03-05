@@ -1,5 +1,10 @@
 # Algoritma dan Struktur Data menggunakan Python
 
+## Catatan Kuliah Semester GENAP 2016/2017
+
+### Minggu-01
+
+![Python basic](https://github.com/handaga/Algoritma-dan-Struktur-Data-Python/blob/master/img/bana-class-01.jpg)
 
 ## Tugas-02 (27/02/2017): 
 	
@@ -7,8 +12,7 @@
 2. Buat catatan tentang berbagai macam fungsi matematik yang terdapat dalam module "math" (hint: buat dalam bentuk table)
 
 
-
-## Catatan Kuliah Semester GENAP 2016/2017
+# Referensi (pentin untuk dibaca)
 
 [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html) 
 
@@ -21,7 +25,3 @@
 [Python for Scientist](https://bana.web.id/python)
 
 [Belajar Python](https://www.tutorialspoint.com)
-
-# Classnote Minggu-01
-
-![Python basic](https://github.com/handaga/Algoritma-dan-Struktur-Data-Python/blob/master/img/bana-class-01.jpg)
