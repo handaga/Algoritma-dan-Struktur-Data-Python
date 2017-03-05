@@ -10,9 +10,11 @@
 
 ## Catatan Kuliah Semester GENAP 2016/2017
 
-http://www.python.org
+[Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html) 
 
-https://bana.web.id/python
+[Python (software downlaod & documentaion) ] (http://www.python.org)
 
-https://www.tutorialspoint.com (learning python)
+[Python for Scientist](https://bana.web.id/python)
+
+[Belajar Python](https://www.tutorialspoint.com)
 
