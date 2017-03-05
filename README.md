@@ -1,4 +1,4 @@
-# Algoritma-Struktur-Data-Python-
+# Algoritma dan Struktur Data menggunakan Python
 
 
 ## Tugas-02 (27/02/2017): 
