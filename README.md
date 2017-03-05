@@ -6,6 +6,8 @@
 
 ![Python basic](https://github.com/handaga/Algoritma-dan-Struktur-Data-Python/blob/master/img/bana-class-01.jpg)
 
+![Struktur kontrol](https://github.com/handaga/Algoritma-dan-Struktur-Data-Python/blob/master/img/struktur-kontrol.jpg)
+
 ## Tugas-02 (27/02/2017): 
 	
 1. Buatlah program untuk menampilkan daftar kode ASCII
