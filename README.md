@@ -22,3 +22,6 @@
 
 [Belajar Python](https://www.tutorialspoint.com)
 
+# Classnote Minggu-01
+
+![Python basic](https://github.com/handaga/Algoritma-dan-Struktur-Data-Python/blob/master/img/bana-class-01.jpg)
