@@ -14,7 +14,7 @@
 2. Buat catatan tentang berbagai macam fungsi matematik yang terdapat dalam module "math" (hint: buat dalam bentuk table)
 
 
-# Referensi (pentin untuk dibaca)
+# Referensi (penting untuk dibaca)
 
 [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html) 
 
