@@ -6,6 +6,8 @@
 
 ![Python basic](https://github.com/handaga/Algoritma-dan-Struktur-Data-Python/blob/master/img/bana-class-01.jpg)
 
+![Struktur Kontrol](https://github.com/handaga/Algoritma-dan-Struktur-Data-Python/blob/master/img/IMG_20170306_144043.jpg)
+
 ![Struktur kontrol](https://github.com/handaga/Algoritma-dan-Struktur-Data-Python/blob/master/img/struktur-kontrol.jpg)
 
 ## Tugas-02 (27/02/2017): 
