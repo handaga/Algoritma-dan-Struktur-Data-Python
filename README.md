@@ -2,6 +2,13 @@
 
 ## Catatan Kuliah Semester GENAP 2016/2017
 
+
+## Melihat ANIMASI cara kerja program python
+
+[Animasi](https://handaga.github.io)
+
+![contoh tampilan animasi](img/animasi.jpg)
+
 ### Minggu-01
 
 ![Python basic](https://github.com/handaga/Algoritma-dan-Struktur-Data-Python/blob/master/img/bana-class-01.jpg)
