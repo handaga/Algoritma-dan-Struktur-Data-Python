@@ -1,6 +1,19 @@
 # Algoritma dan Struktur Data menggunakan Python
+Catatan Kuliah Semester GENAP 2016/2017
 
-## Catatan Kuliah Semester GENAP 2016/2017
+## Tugas-Minggu-05
+
+Buatlah TIMER untuk mengukur kecepatan proses eksekusi algoritma:
+
+	(a) Sequential Search, 
+	(b) Sequential Search dengan SORTING,
+	(c) Binary search
+	(d) Binary search (recursive)
+
+Hint: Buatlah data list sebanyak munkin (1000 s/d 1000000), gunakan fungsi range.  
+
+Buatlah analisis terhadap hasil yang anda peroleh.
+
 
 
 ## Melihat ANIMASI cara kerja program python
