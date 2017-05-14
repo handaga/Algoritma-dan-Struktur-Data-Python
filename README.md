@@ -1,6 +1,10 @@
 # Algoritma dan Struktur Data menggunakan Python
 Catatan Kuliah Semester GENAP 2016/2017
 
+#Link tentang Reguler Expression
+[Python reguler Expression](https://pymotw.com/2/re/)
+
+
 ## Tugas-Minggu-05
 
 Buatlah TIMER untuk mengukur kecepatan proses eksekusi algoritma:
